@@ -1,0 +1,20 @@
+{
+    "name": "suhanyu/wechat",
+    "description": "微信的订阅号后程序",
+    "type": "project",
+    "authors": [
+        {
+            "name": "suhanyujie",
+            "email": "suhanyujie@qq.com"
+        }
+    ],
+    "require": {
+        "overtrue/wechat": "~3.1"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
